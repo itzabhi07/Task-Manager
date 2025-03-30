@@ -6,7 +6,7 @@
 - [🛠 Technologies Used](#technologies-used)
 - [⚙️ Installation](#installation)
 - [💻 Usage](#usage)
-  - [🌐 Live Demo](#live-demo)
+- [🌐 Live Demo](#live-demo)
 - [📂 Folder Structure](#folder-structure)
 - [📜 Scripts](#scripts)
 - [🤝 Contributing](#contributing)
